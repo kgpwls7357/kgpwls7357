@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=kim's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=kim's%20github&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kgpwls7357)](https://github.com/kgpwls7357)
 
