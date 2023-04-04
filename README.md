@@ -12,7 +12,7 @@
 ![MariaDB](https://img.shields.io/badge/-MongoDB-1F305F?style=flat-square&logo=mongodb&logoColor=white)
 
 # Hi there 👋
-## Hi there 👋
+## 안녕하세요 👋
 ### Hi there 👋
 #### Hi there 👋
 ##### Hi there 👋
